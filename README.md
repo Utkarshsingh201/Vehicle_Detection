@@ -1,4 +1,4 @@
- Car Detection
+## Car Detection
 
 A simple car detection system using YOLOv11 and OpenCV.
 
@@ -28,7 +28,7 @@ YOLO-Car-Detection/
 
 You can use any video file. Just make sure the filename matches the one in main.py.
 
-▶️ How to Run
+### ▶️ How to Run
 1. Add your video
 
 Place your video inside the project folder.
@@ -37,7 +37,7 @@ For example:
 
 my_video.mp4
 
-2. Set the video name
+### 2. Set the video name
 
 Open main.py and find:
 
@@ -48,7 +48,7 @@ Change it if your video has a different name:
 
 video_file = "car_video.mp4"
 
-3. Run the program
+### 3. Run the program
 
 Open a terminal inside the project folder:
 
@@ -57,7 +57,7 @@ python main.py
 
 The video will open in a new window and cars will be detected automatically.
 
-⏹️ Stop the Program
+### ⏹️ Stop the Program
 
 While the video window is open, press:
 
@@ -66,4 +66,4 @@ Q
 
 to stop the program.
 
-🤖 YOLOv
+
