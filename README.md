@@ -28,8 +28,8 @@ YOLO-Car-Detection/
 
 You can use any video file. Just make sure the filename matches the one in main.py.
 
-### ▶️ How to Run
-1. Add your video
+## ▶️ How to Run
+###1. Add your video
 
 Place your video inside the project folder.
 
